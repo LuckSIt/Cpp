@@ -1,0 +1,3 @@
+C:/Users/Vladimir/CLionProjects/new_opportunities/cmake-build-debug/CMakeFiles/new_opportunities.dir
+C:/Users/Vladimir/CLionProjects/new_opportunities/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vladimir/CLionProjects/new_opportunities/cmake-build-debug/CMakeFiles/rebuild_cache.dir

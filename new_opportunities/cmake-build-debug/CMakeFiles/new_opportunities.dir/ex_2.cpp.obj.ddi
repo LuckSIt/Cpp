@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\new_opportunities.dir\\ex_2.cpp.obj",
+            "outputs": [
+                "C:\\Users\\Vladimir\\CLionProjects\\new_opportunities\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\new_opportunities.dir\\ex_2.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

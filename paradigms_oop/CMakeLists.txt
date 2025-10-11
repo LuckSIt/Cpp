@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.29)
+project(paradigms_oop)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(paradigms_oop
+        shape.cpp)
